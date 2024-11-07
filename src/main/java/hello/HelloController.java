@@ -21,7 +21,7 @@ public class HelloController {
         }
 
         // Return the greeting message with the IPv4 address
-        return "Greetings from  'vignan' deployed JAVA app in virtual Machine..!!! Host private IPv4 Address: " + ipAddress;
+        return "Greetings from  'mikey' deployed JAVA app in elastic bean stalk..!!! Host private IPv4 Address: " + ipAddress;
     }
     
 }
